@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Glucoller</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Andrés A.</string>
+    <string name="nav_header_subtitle">andres.a@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Reporte</string>
+    <string name="menu_slideshow">Contacto</string>
+    <string name="menu_lifestyle">Estilo de Vida</string>
+    <string name="menu_help">Ayuda</string>
+</resources>
